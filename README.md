@@ -10,11 +10,11 @@ const Akshat = {
     FavouriteLanguage: "Javascript/Typescript",
     OpenedIssues: 0,
     OpenedPullRequests: 0,
-    TotalCommits: 14,
+    TotalCommits: 56,
     Stars: 0,
     Repositories: {
-       Created: 2,
-       Contributed: 0
+       Created: 4,
+       Contributed: 2
     },
 }; //I'm a Epic Object, UwU
 ```
