@@ -8,13 +8,13 @@ Thanks for visiting my github profile. Have a great day ahead!~
 ```js
 const Akshat = {
     FavouriteLanguage: "Javascript/Typescript",
-    OpenedIssues: 0,
-    OpenedPullRequests: 0,
+    OpenedIssues: 24,
+    OpenedPullRequests: 16,
     TotalCommits: 56,
-    Stars: 0,
+    Stars: 6,
     Repositories: {
-       Created: 4,
-       Contributed: 2
+       Created: 13,
+       Contributed: 9
     },
 }; //I'm a Epic Object, UwU
 ```
