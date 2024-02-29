@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akshat Shukla!!</h1>
 <h3 align="center">A passionate coder and problem solver from India!!</h3>
 
-- 🔭 I’m currently working on [CosMoS Constellation Detection App](https://github.com/Akshat-0001/CosMoS-frontend-app)
+- 🔭 I’m currently working on:
+      1. [CosMoS Constellation Detection App](https://github.com/Akshat-0001/CosMoS-frontend-app)
+      2. [CosMos Web Dashboard]()
+
+- 👯 Some more projects I have worked omn [Discord Music Bot](https://github.com/Akshat-0001/Discord-Music-Bot)
 
 - 🌱 I’m currently obsessed with **Android Development and trying to learn everthing that seems interesting!!!**
 
