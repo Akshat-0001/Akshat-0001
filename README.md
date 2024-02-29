@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **com.akshat.dev@gmail.com**
 
-- 📄 Know about my experiences at LinkedIn [https://www.linkedin.com/in/akshat-shukla-950a98249/](https://www.linkedin.com/in/akshat-shukla-950a98249/)
-
 - ⚡ Fun fact **I love banana chips!! (and def I'm not funny)**
 
 <h3 align="left">Connect with me:</h3>
