@@ -3,9 +3,10 @@
 
 - 🔭 I’m currently working on:
       1. [CosMoS Constellation Detection App](https://github.com/Akshat-0001/CosMoS-frontend-app)
-      2. [CosMos Web Dashboard]()
+  
+      2. [CosMos Web Dashboard](https://github.com/Akshat-0001/CosMoS-web-dashboard-)
 
-- 👯 Some more projects I have worked omn [Discord Music Bot](https://github.com/Akshat-0001/Discord-Music-Bot)
+- 👯 Some more projects I have worked on [Discord Music Bot](https://github.com/Akshat-0001/Discord-Music-Bot)
 
 - 🌱 I’m currently obsessed with **Android Development and trying to learn everthing that seems interesting!!!**
 
