@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CosMoS Constellation Detection App](https://github.com/Akshat-0001/CosMoS-frontend-app)
 
-- 🌱 I’m currently obsessed with **Android Development!!**
+- 🌱 I’m currently obsessed with **Android Development and trying to learn everthing that seems interesting!!!**
 
 - 💬 Ask me about **anything (If I don't know then I'll get to know lol)**
 
