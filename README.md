@@ -136,35 +136,20 @@ const project = {
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akshat-0001&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=akshat-0001&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-0001&theme=tokyo-night&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akshat-0001&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-profile-trophy.vercel.app/?username=akshat-0001&theme=tokyonight&no-frame=true&column=6" />
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-0001&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akshat-0001&theme=tokyonight&no-frame=true&no-bg=true&column=6"/>
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
