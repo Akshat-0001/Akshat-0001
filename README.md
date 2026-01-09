@@ -144,12 +144,6 @@ const project = {
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akshat-0001&theme=tokyonight&no-frame=true&column=6" />
-
-</div>
-
 
 ## 🎯 Current Focus
 
