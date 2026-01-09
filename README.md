@@ -1,65 +1,121 @@
-<h1 align="center">Hi 👋, I'm Akshat Shukla</h1>
-<h3 align="center">Full-stack developer building real-world, production-ready applications 🚀</h3>
+<div align="center">
+  
+# 👋 Hi, I'm Akshat Shukla
 
-- 🔭 **Currently building & shipping products**, focusing on end-to-end ownership  
-  - **TeamFinder** – A full-stack team discovery platform (Web + Android)  
-    > Designed, built, deployed, and maintained independently using Supabase, Vite, and Capacitor  
-  - [CosMoS – Constellation Detection App](https://github.com/Akshat-0001/CosMoS-frontend-app)  
-  - [CosMoS – Web Dashboard](https://github.com/Akshat-0001/CosMoS-web-dashboard-)
+### Full-Stack Developer | Building Production-Ready Applications 🚀
 
-- 🏢 **Professional / Client Work**
-  - [CIGATY PVT LTD](https://github.com/Akshat-0001/CIGATY-PVT-LTD) – Production-grade web application built for a real organization
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/akshattt06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-shukla-950a98249)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/akshattt06)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:com.akshat.dev@gmail.com)
 
-- 🧠 **Other projects**
-  - [Discord Music Bot](https://github.com/Akshat-0001/Discord-Music-Bot)
+</div>
 
-- 🌱 **Currently focused on**
-  - Full-stack engineering (Frontend, Backend, Auth, DB, Deployment)
-  - Android & cross-platform apps
-  - Writing clean, scalable, production-level code
+---
 
-- 💬 Ask me about **building apps from idea → deployment**, or anything tech-related
+## 🚀 What I'm Building
 
-- 📫 Reach me at **com.akshat.dev@gmail.com**
+### 🎯 Current Focus: Shipping Products End-to-End
 
-- ⚡ Fun fact: **I love banana chips (and no, I’m not funny either)**
+**🔥 TeamFinder** – Full-Stack Team Discovery Platform
+> Designed, built, deployed, and maintaining independently  
+> **Tech:** Supabase • Vite • Capacitor • PostgreSQL  
+> **Platforms:** Web + Android
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/akshattt06" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/akshat-shukla-950a98249" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/akshattt06" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-</p>
+**🌌 CosMoS** – Constellation Detection & Astronomy Platform
+- [Mobile App](https://github.com/Akshat-0001/CosMoS-frontend-app) – Real-time constellation detection
+- [Web Dashboard](https://github.com/Akshat-0001/CosMoS-web-dashboard-) – Analytics & management interface
 
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-<b>Frontend:</b> HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Vite, Tailwind CSS  
-<br/>
-<b>Backend:</b> Node.js, Express.js, Supabase, Firebase  
-<br/>
-<b>Mobile:</b> Android (Java), Flutter, Dart, Capacitor  
-<br/>
-<b>Databases:</b> PostgreSQL, MongoDB, Firebase Firestore  
-<br/>
-<b>DevOps & Cloud:</b> Git, GitHub, Google Cloud Platform, Vercel  
-<br/>
-<b>Programming Languages:</b> Java, JavaScript, TypeScript, Python, C, C++  
-</p>
+### 💼 Professional Experience
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat-0001&show_icons=true&theme=radical&layout=compact" />
-</p>
+**[CIGATY PVT LTD](https://github.com/Akshat-0001/CIGATY-PVT-LTD)** – Production-grade web application  
+Built for real organization with complete ownership from ideation to deployment
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat-0001&show_icons=true&theme=radical" />
-</p>
+**[Discord Music Bot](https://github.com/Akshat-0001/Discord-Music-Bot)** – Scaled to 150+ servers  
+Optimized API request queuing, reducing rate limit errors by 25%
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-0001" />
-</p>
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshat-0001&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat-0001&show_icons=true&theme=radical&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-0001&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🎯 What I'm Learning
+
+- 🔧 Advanced system design and architecture patterns
+- 📱 Cross-platform development best practices
+- ⚡ Performance optimization and scalability
+- 🛠️ DevOps and CI/CD pipelines
+
+---
+
+## 💬 Let's Connect!
+
+I'm always open to discussing:
+- 💡 Building products from **idea → deployment**
+- 🚀 Full-stack architecture and best practices
+- 📱 Mobile and web app development
+- 🤝 Collaboration opportunities
+
+**📧 Email:** com.akshat.dev@gmail.com
+
+---
+
+<div align="center">
+  
+### ⚡ Fun Fact
+I love banana chips 🍌 (and no, I'm not funny either)
+
+![Profile Views](https://komarev.com/ghpvc/?username=akshat-0001&color=blueviolet&style=flat-square)
+
+</div>
