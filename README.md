@@ -138,47 +138,43 @@ const project = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/akshat-0001">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akshat-0001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&bg_color=0D1117&text_color=FFF"/>
-  </a>
-  
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/akshat-0001">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=akshat-0001&theme=algolia&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&background=0D1117"/>
-  </a>
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshat-0001&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
 
-<div align="center">
-  
-  <!-- Top Languages -->
-  <a href="https://github.com/akshat-0001">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akshat-0001&layout=compact&langs_count=8&theme=algolia&hide_border=true&title_color=00D9FF&bg_color=0D1117&text_color=FFF"/>
-  </a>
-  
-  <!-- Contribution Graph -->
-  <a href="https://github.com/akshat-0001">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-0001&custom_title=Akshat's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&theme=react-dark" height="180em"/>
-  </a>
-  
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=akshat-0001&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-0001&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
-<!-- GitHub Profile Summary Cards (Alternative Visualization) -->
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshat-0001&theme=algolia" alt="Profile Details"/>
-</div>
+---
 
-<br/>
+## 🏆 GitHub Achievements
 
-<!-- Trophy Animation -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshat-0001&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akshat-0001&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
+## 📈 Contribution Stats
+
+| 📊 **Metric** | 📈 **Value** |
+|---------------|--------------|
+| 🎯 Total Commits | ![](https://img.shields.io/github/commit-activity/y/akshat-0001/akshat-0001?style=flat-square) |
+| 📦 Public Repos | ![](https://img.shields.io/badge/dynamic/json?logo=github&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fakshat-0001) |
+| ⭐ Total Stars | ![](https://img.shields.io/github/stars/akshat-0001?style=flat-square) |
+| 👥 Followers | ![](https://img.shields.io/github/followers/akshat-0001?style=flat-square) |
+
+---
+
+## 💻 This Week's Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
