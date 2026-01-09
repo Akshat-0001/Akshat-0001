@@ -139,20 +139,29 @@ const project = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=akshat-0001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-0001&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akshat-0001&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=akshat-0001&theme=tokyonight&hide_border=true" height="180"/>
+
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat-0001&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&card_width=400" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-0001&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akshat-0001&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+
 </div>
 
-<br/>
-
-<!-- Trophy Animation -->
 <div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=akshat-0001&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage" alt="GitHub Trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akshat-0001&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=akshat-0001&theme=tokyonight&no-frame=true&no-bg=true&column=6"/>
+
 </div>
 
 ---
