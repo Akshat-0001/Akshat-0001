@@ -1,4 +1,37 @@
+## 📊 GitHub Analytics
+
 <div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshat-0001&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshat-0001&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-0001&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=akshat-0001&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📈 Quick Stats
+
+<div align="center">
+
+![](https://img.shields.io/badge/Repos-24-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Stars-5-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/Followers-2-green?style=for-the-badge)
+![](https://img.shields.io/badge/Commits-7%2Fyear-red?style=for-the-badge)
+
+</div><div align="center">
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akshat%20Shukla&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
