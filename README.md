@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akshat%20Shukla&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akshat%20Shukla&fontSize=80&fontAlignY=35&animation=twinkling&fontColo[...]
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+Production-Ready+Apps;From+Idea+%E2%86%92+Deployment;Always+Shipping+%F0%9F%93%A6" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=[...]
 
 <!-- Social Badges with Animation -->
 <p align="center">
@@ -138,35 +138,6 @@ const project = {
 
 </div>
 
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Learning Path))
-    Advanced Architecture
-      System Design Patterns
-      Microservices
-      Scalability
-    Cross Platform
-      React Native
-      Capacitor Deep Dive
-      Performance Optimization
-    DevOps
-      CI/CD Pipelines
-      Docker & Kubernetes
-      Cloud Infrastructure
-    Best Practices
-      Clean Code
-      Testing Strategies
-      Security First
-```
-
-</div>
-
----
 
 ## 💡 Let's Build Something Amazing Together!
 
