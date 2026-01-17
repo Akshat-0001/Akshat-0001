@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <!-- Typing SVG -->
-[![Web • Android • Linux • AI](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Akshat+Shukla+%F0%9F%91%8B;Full-Stack+Dev+%E2%80%A2+AI+%E2%80%A2+Astronomy;Building+cool+things+%F0%9F%9A%80&center=true&width=700&height=40&color=00BFFF&font=Fira+Code&size=24)](https://git.io/typing-svg)
+[![typing](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Engineer;React+%7C+Node+%7C+Android;Learning+by+Building+Real+Products&center=true&width=700&height=40&color=00BFFF&font=Fira+Code&size=24)](https://git.io/typing-svg)
 
 <!-- Social Badges with Animation -->
 <p align="center">
