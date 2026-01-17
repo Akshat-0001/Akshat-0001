@@ -49,13 +49,10 @@
 const project = {
   platforms: ["Web", "Android"],
   role: "Solo Developer",
-  tech: ["Supabase", "Vite", "Capacitor"],
+  tech: ["React", "Vite", "Capacitor", "Android", "Supabase"],
   status: "🟢 Live & Maintained"
 };
 ```
-
-**End-to-end ownership:** Design → Development → Deployment → Maintenance
-
 </td>
 <td width="50%">
 
@@ -65,7 +62,7 @@ const project = {
 - 📱 [**Mobile App**](https://github.com/Akshat-0001/CosMoS-frontend-app) - Real-time detection
 - 🌐 [**Web Dashboard**](https://github.com/Akshat-0001/CosMoS-web-dashboard-) - Analytics interface
 
-**Features:** Computer Vision • Real-time Processing • Interactive UI
+**Features:** Computer Vision • Machine Learning • RoboFlow Modelling
 
 </td>
 </tr>
@@ -79,7 +76,7 @@ const project = {
 
 | Project | Role | Impact |
 |---------|------|--------|
-| [**CIGATY PVT LTD**](https://github.com/Akshat-0001/CIGATY-PVT-LTD) | Lead Developer | Production-grade enterprise application |
+| [**CIGATY PVT LTD**](https://github.com/Akshat-0001/CIGATY-PVT-LTD) | Lead Developer | Production-grade enterprise application for Liquor Import/Export Business |
 | [**Discord Music Bot**](https://github.com/Akshat-0001/Discord-Music-Bot) | Creator & Maintainer | 150+ servers • 25% ↓ rate limit errors |
 
 </div>
@@ -195,8 +192,9 @@ Open Source
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-### 🍌 Fun Fact
-**I love banana chips** (and no, I'm still not funny)
+### 🍌 Geek Fact
+**I love playing competitive chess** (chess.com id: akshat0001)
+- Let's playy!
 
 ---
 
