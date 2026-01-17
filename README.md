@@ -4,7 +4,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akshat%20Shukla&fontSize=80&fontAlignY=35&animation=twinkling&fontC[...]" />
 
 <!-- Typing SVG -->
-[![Web | Android | Linux | AI](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<!-- Typing SVG -->
+[![Web • Android • Linux • AI](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Akshat+Shukla+%F0%9F%91%8B;Full-Stack+Dev+%E2%80%A2+AI+%E2%80%A2+Astronomy;Building+cool+things+%F0%9F%9A%80&center=true&width=700&height=40&color=00BFFF&font=Fira+Code&size=24)](https://git.io/typing-svg)
 
 <!-- Social Badges with Animation -->
 <p align="center">
