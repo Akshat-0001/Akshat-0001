@@ -137,45 +137,6 @@ const project = {
 </div>
 
 
-## 💡 Let's Build Something Amazing Together!
-
-<div align="center">
-
-### I'm always excited to discuss:
-
-<table>
-<tr>
-<td align="center" width="25%">
-  
-🚀<br/>
-**Product Ideas**<br/>
-Idea → Launch
-
-</td>
-<td align="center" width="25%">
-  
-🏗️<br/>
-**Architecture**<br/>
-System Design
-
-</td>
-<td align="center" width="25%">
-  
-📱<br/>
-**Full-Stack**<br/>
-Web + Mobile
-
-</td>
-<td align="center" width="25%">
-  
-🤝<br/>
-**Collaboration**<br/>
-Open Source
-
-</td>
-</tr>
-</table>
-
 ### 📬 Reach Out
 
 <a href="mailto:com.akshat.dev@gmail.com">
